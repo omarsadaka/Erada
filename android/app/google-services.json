@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "35922656197",
+    "firebase_url": "https://erada-45030.firebaseio.com",
+    "project_id": "erada-45030",
+    "storage_bucket": "erada-45030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35922656197:android:25ba8d0afabd9f46ab29ac",
+        "android_client_info": {
+          "package_name": "com.technosaab.erada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35922656197-5q9vdrpd15dja777ijgc8vd043u1fleu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXI9527ev566toptQAfWznWD0W71hkhrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35922656197-5q9vdrpd15dja777ijgc8vd043u1fleu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
