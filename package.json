@@ -13,7 +13,7 @@
     "@cawfree/react-native-modal-provider": "^1.0.2",
     "@react-native-community/masked-view": "^0.1.6",
     "@react-native-community/netinfo": "^5.6.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cli": "^1.0.1",
     "i": "^0.3.6",
     "install": "^0.13.0",
